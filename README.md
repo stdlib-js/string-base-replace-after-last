@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-replace-after-last/tags). For example,
+
+```javascript
 import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@v0.1.0-deno/mod.js';
 ```
 
@@ -109,7 +114,7 @@ var out = replaceAfterLast( 'beep boop beep', ' ', 'loop', -1 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@v0.1.0-deno/mod.js';
+import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@deno/mod.js';
 
 var str = 'beep boop';
 var out = replaceAfterLast( str, 'p', 'see', str.length );
