@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-replace-after-last",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replace the substring after the last occurrence of a specified search string.",
   "license": "Apache-2.0",
   "author": {
