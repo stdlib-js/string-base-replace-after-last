@@ -21,7 +21,7 @@ No changes reported for this release.
 ### Features
 
 -   [`ec1c506`](https://github.com/stdlib-js/stdlib/commit/ec1c5066955fdcc71013805a5c55fc739d29a849) - resolve negative index arguments relative to last index
--   [`58bdac8`](https://github.com/stdlib-js/stdlib/commit/58bdac8a8a5914b7b2598f873418f9edae4c8843) - add `string/base/replace-after-last` [(##1365)](#1365)
+-   [`58bdac8`](https://github.com/stdlib-js/stdlib/commit/58bdac8a8a5914b7b2598f873418f9edae4c8843) - add `string/base/replace-after-last` [(#1365)](https://github.com/stdlib-js/stdlib/pull/1365)
 
 </section>
 
@@ -49,7 +49,7 @@ No changes reported for this release.
 
 This release closes the following issue:
 
-[##814](#814)
+[#814](https://github.com/stdlib-js/stdlib/issues/814)
 
 </section>
 
@@ -62,7 +62,7 @@ This release closes the following issue:
 <details>
 
 -   [`ec1c506`](https://github.com/stdlib-js/stdlib/commit/ec1c5066955fdcc71013805a5c55fc739d29a849) - **feat:** resolve negative index arguments relative to last index _(by Athan Reines)_
--   [`58bdac8`](https://github.com/stdlib-js/stdlib/commit/58bdac8a8a5914b7b2598f873418f9edae4c8843) - **feat:** add `string/base/replace-after-last` [(##1365)](#1365) _(by Golden Kumar, Athan Reines, Philipp Burckhardt)_
+-   [`58bdac8`](https://github.com/stdlib-js/stdlib/commit/58bdac8a8a5914b7b2598f873418f9edae4c8843) - **feat:** add `string/base/replace-after-last` [(#1365)](https://github.com/stdlib-js/stdlib/pull/1365) _(by Golden Kumar, Athan Reines, Philipp Burckhardt)_
 
 </details>
 
