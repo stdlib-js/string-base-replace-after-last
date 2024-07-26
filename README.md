@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@deno/mod.js';
+import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@v0.1.1-deno/mod.js';
 ```
 
 #### replaceAfterLast( str, search, replacement, fromIndex )
@@ -109,7 +109,7 @@ var out = replaceAfterLast( 'beep boop beep', ' ', 'loop', -1 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@deno/mod.js';
+import replaceAfterLast from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-replace-after-last@v0.1.1-deno/mod.js';
 
 var str = 'beep boop';
 var out = replaceAfterLast( str, 'p', 'see', str.length );
