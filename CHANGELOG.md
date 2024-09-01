@@ -32,12 +32,11 @@ No changes reported for this release.
 ### BREAKING CHANGES
 
 -   [`ec1c506`](https://github.com/stdlib-js/stdlib/commit/ec1c5066955fdcc71013805a5c55fc739d29a849): resolve negative index arguments relative to last index
--   [`ec1c506`](https://github.com/stdlib-js/stdlib/commit/ec1c5066955fdcc71013805a5c55fc739d29a849): resolve negative index arguments relative to last index 
 
     -   Previously, a negative `fromIndex` argument would resolve to `0`.
-    The current behavior resolves relative to the last character index.
-    To preserve the previous behavior, users should clamp index arguments
-    to index bounds before calling `replaceAfterLast`.
+        The current behavior resolves relative to the last character index.
+        To preserve the previous behavior, users should clamp index arguments
+        to index bounds before calling `replaceAfterLast`.
 
 </section>
 
